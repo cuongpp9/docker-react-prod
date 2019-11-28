@@ -1,7 +1,7 @@
-:pill: Build docker image :pill:
+:pill: Build docker image: :clap:
 
-:clap: Docker build -t docker-react:build-prod
+==>>> Docker build -t docker-react:build-prod
 
-:pill: Start docker image :pill:
+:pill: Start docker image ::clap:
 
-:clap: docker run -d -p 3000:80 docker-react:build-prod
+==>>>> docker run -d -p 3000:80 docker-react:build-prod

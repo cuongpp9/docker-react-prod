@@ -1,6 +1,6 @@
 :pill: Build docker image: :clap:
 
-==>>> Docker build -t docker-react:build-prod
+==>>> Docker build -t docker-react:build-prod .
 
 :pill: Start docker image ::clap:
 
